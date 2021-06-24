@@ -1,3 +1,3 @@
-#MyShop App0:
+#MyShop App
 
 ![](https://github.com/nikhil6134/nikhil6134.github.io/blob/master/assets/assets/projects/Myshop.gif)
